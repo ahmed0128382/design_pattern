@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Mousa/Desktop/ping pong/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/hellobinary.dir/includes_CXX.rsp -g -o CMakeFiles\\hellobinary.dir\\main.cpp.obj -c \"C:\\Users\\Mousa\\Desktop\\ping pong\\main.cpp\"",
+  "file": "C:/Users/Mousa/Desktop/ping pong/main.cpp"
+},
+{
+  "directory": "C:/Users/Mousa/Desktop/ping pong/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/hellobinary.dir/includes_CXX.rsp -g -o CMakeFiles\\hellobinary.dir\\src\\calc.cpp.obj -c \"C:\\Users\\Mousa\\Desktop\\ping pong\\src\\calc.cpp\"",
+  "file": "C:/Users/Mousa/Desktop/ping pong/src/calc.cpp"
+},
+{
+  "directory": "C:/Users/Mousa/Desktop/ping pong/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/hellobinary.dir/includes_CXX.rsp -g -o CMakeFiles\\hellobinary.dir\\src\\singlton_pattern.cpp.obj -c \"C:\\Users\\Mousa\\Desktop\\ping pong\\src\\singlton_pattern.cpp\"",
+  "file": "C:/Users/Mousa/Desktop/ping pong/src/singlton_pattern.cpp"
+}
+]
