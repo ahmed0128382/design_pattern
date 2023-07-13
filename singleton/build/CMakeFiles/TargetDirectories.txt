@@ -1,0 +1,3 @@
+C:/Users/Mousa/Desktop/ping pong/build/CMakeFiles/hellobinary.dir
+C:/Users/Mousa/Desktop/ping pong/build/CMakeFiles/edit_cache.dir
+C:/Users/Mousa/Desktop/ping pong/build/CMakeFiles/rebuild_cache.dir
